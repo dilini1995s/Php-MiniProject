@@ -64,9 +64,7 @@ box-shadow: -5px 2px 62px 8px rgba(0,0,0,0.75);
 					<label>Password</label>
 					<input type="password" class="form-control" name="password" placeholder="Password" required>
 				</div>
-				<div class="checkbox">
-					<label><input type="checkbox"> Remember me</label>
-				</div>
+				
 				<button type="submit" name="login" class="btn btn-success btn-block ">Login</button>
 
 				
