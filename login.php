@@ -10,8 +10,9 @@
 <script src="js/jquery-3.2.1.min.js"></script>
 <script src="js/bootstrap.js"></script>
 <style type="text/css">
-body{background:url('images/im.jpg') no-repeat ;
+body{background:url('images/sa.jpg') no-repeat ;
 	overflow-y:scroll;
+	
 	}
 #log{
  

@@ -61,6 +61,12 @@
 	$r4="insert into result values(1,'csc1233','A')";
 	$r5="insert into result values(2,'csc1113','A')";
 	$r6="insert into result values(2,'csc1142','B')";
+	insert into result values(3,'csc1133','A');
+	 insert into result values(3,'csc1142','A-');
+	  insert into result values(3,'csc1213','B');
+	   insert into result values(3,'csc1233','B');
+	    insert into result values(3,'csc2123','B');
+		insert into result values(3,'csc2133','C');
 	
 	mysqli_query($conn,$r1);
 	mysqli_query($conn,$r2);
