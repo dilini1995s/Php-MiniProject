@@ -4,7 +4,7 @@
 	
 	
 	
-	mysqli_select_db($conn,"Result");
+	mysqli_select_db($conn,"result");
 	
 	if(isset($_POST['login'])){
 		

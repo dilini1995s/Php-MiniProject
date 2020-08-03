@@ -32,11 +32,16 @@
           <a class="dropdown-item" href="login.php">Student</a>
          
         </div>
-      </li>
+         </li>
+         <li class="nav-item">
+            <a class="nav-link" href="register.php">Register</a>
+          </li>
+          
           <li class="nav-item">
             <a class="nav-link" href="#">View Results</a>
           </li>
           
+     
         </ul>
       </div>
     </nav>
