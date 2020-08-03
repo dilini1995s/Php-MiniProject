@@ -21,10 +21,13 @@
 					$a="Enter valid username/password";
 				}
 				
-				else{
+				else if($check){
 					$_SESSION['student_id']=$id;
 					header('location:display.php');
 					
+				}
+				if($name=='admin' && $password=='admin123'){
+					header('location:admin.php');
 				}
 				
 

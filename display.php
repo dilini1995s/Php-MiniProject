@@ -148,7 +148,9 @@
 		
 		
 		echo "<div class='col-sm-4'>";
-		echo "<a href='profile.php'>Profile</a>"."</br>";
+		echo "<a href='profile.php'>Profile</a></div>";
+		echo "<div class='col-sm-4'>";
+		echo "<a href='logout.php'>Logout</a>"."</br>";
 		echo "</div>";	
 		echo "</div>";	
 		echo "</div >";

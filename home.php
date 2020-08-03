@@ -28,7 +28,7 @@
           Login
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="#">Admin</a>
+          <a class="dropdown-item" href="login.php">Admin</a>
           <a class="dropdown-item" href="login.php">Student</a>
          
         </div>
