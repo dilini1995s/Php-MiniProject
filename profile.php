@@ -28,7 +28,7 @@
 			echo "<td>".":".$row['username']."</td>";
 		echo "</tr>";
 		echo "<tr>";
-			echo "<td>"."</td>";
+			echo "<td>"."<a href='display.php'>back</a>"."</td>";
 			echo "<td>"."<a href='password.php'>change password</a>"."</td>";
 		echo "</tr>";
 		echo "</table>";
