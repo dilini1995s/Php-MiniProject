@@ -38,6 +38,10 @@ button{
 -moz-box-shadow: -5px 2px 62px 8px rgba(0,0,0,0.75);
 box-shadow: -5px 2px 62px 8px rgba(0,0,0,0.75);
 }
+
+a{
+	color: red;
+}
 </style>
 
 </head>
@@ -67,7 +71,9 @@ box-shadow: -5px 2px 62px 8px rgba(0,0,0,0.75);
 				</div>
 				
 				<button type="submit" name="login" class="btn btn-success btn-block ">Login</button>
-
+				<br>
+				<br>
+				<a href="register.php">If you don't have account create new account</a>
 				
 		
 		</div>	
