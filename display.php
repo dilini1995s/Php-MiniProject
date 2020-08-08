@@ -7,7 +7,7 @@
 	echo "<div class='container '>";
 	echo "<h2>"."Examination Results"."</h2>";
 	echo "</div>";
-	mysqli_select_db($conn,'Result');
+	mysqli_select_db($conn,'result');
 	$va1="select * from student where student_id='$id'";
 	$in1=mysqli_query($conn,$va1);
 	
